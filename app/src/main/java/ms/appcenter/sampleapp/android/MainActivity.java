@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             new CrashesActivity(),
             new AnalyticsActivity(),
             new PushActivity()
-    };
+   
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
